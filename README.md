@@ -3,7 +3,7 @@ Offline evaluation by maximum similarity to an ideal ranking
 
 This code implements a search evaluation metric called "compatibility", which
 was developed and explored over three papers.  Start with the first
-(i.e. most recent) for the best explanation.
+(i.e., the most recent) for the best explanation.
 
 1) Charles L. A. Clarke, Alexandra Vtyurina, and Mark D. Smucker. 2020.
    Assessing top-k preferences
