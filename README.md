@@ -1,7 +1,7 @@
 # Compatibility
 Offline evaluation by maximum similarity to an ideal ranking
 
-This code implements an evaluation metric called "compatibility", which
+This code implements a search evaluation metric called "compatibility", which
 was developed and explored over three papers.  Start with the first
 (i.e. most recent).
 
