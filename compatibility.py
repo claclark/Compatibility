@@ -8,7 +8,7 @@ was developed and explored over three papers.  Start with the first
 
 1) Charles L. A. Clarke, Alexandra Vtyurina, and Mark D. Smucker. 2020.
    Assessing top-k preferences
-   Under review. See:...
+   Under review. See: https://arxiv.org/abs/2007.11682
 
 2) Charles L. A. Clarke, Mark D. Smucker, and Alexandra Vtyurina. 2020.
    Offline evaluation by maximum similarity to an ideal ranking.
