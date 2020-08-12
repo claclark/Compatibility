@@ -25,4 +25,5 @@ See TREC-CAsT-2019.qrels for an example.
 
 The script ``divesity.py`` implements a version of compatibility from paper #2 that incorporates a notion of diversity.
 It interprets qrels differently than the script above, so be aware.
+
 We are happy to answer any and all questions.
