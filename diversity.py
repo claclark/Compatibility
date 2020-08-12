@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 """Maximum similarity to an ideal ranking from files in TREC format
 
 This script implements the *diversification* version of an evaluation
