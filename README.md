@@ -23,6 +23,12 @@ If one document's preference value is greater than another document's preference
 If preferences are tied, it indicates that the two documents are equally preferred.
 See TREC-CAsT-2019.qrels for an example.
 
+Data files for paper #1:
+* ``TREC-CAsT-2019.pref``': Crowdsourced preference judgments
+* ``TREC-CAsT-2019.qrels``: Combined qrels based on the crowdsourced preference judgments and the original graded judgments
+* ``TREC-CAST-2019.local.pref``: Local preference judgments
+* ``TREC-CAsT-2019.local.qrels``: Top-1 qrels based on the local preference judgments
+
 The script ``divesity.py`` implements a version of compatibility from paper #2 that incorporates a notion of diversity.
 It interprets qrels differently than the script above, so be aware.
 
