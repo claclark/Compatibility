@@ -38,6 +38,7 @@ This is my main hub for this project. Start by reading paper #4.
    Offline evaluation without gain.
    ACM SIGIR International Conference on the Theory of Information Retrieval.
      * Paper: https://dl.acm.org/doi/10.1145/3409256.3409816
+     * Code: this repo (see below for details)
    
 The script ``compatibility.py`` implements a search evaluation metric called "compatibility", which was first developed and explored in papers #4-6.
 Formats are backward compatible with the standard formats used by TREC for adhoc runs and relevance judgments.
