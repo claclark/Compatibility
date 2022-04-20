@@ -1,7 +1,7 @@
 # Compatibility
 Offline evaluation by maximum similarity to an ideal ranking.
 
-This is my main hub for this project. Start by reading paper #4.
+This is the main hub for this project. Start by reading paper #4.
 
 1) Negar Arabzadeh, Alexandra Vtyurina, Xinyi Yan, and Charles L. A. Clarke.
    Shallow pooling for sparse labels. *Under review*.
