@@ -4,7 +4,7 @@ Offline evaluation by maximum similarity to an ideal ranking.
 This is the main hub for this project. Start by reading paper #4.
 
 1) Negar Arabzadeh, Alexandra Vtyurina, Xinyi Yan, and Charles L. A. Clarke.
-   Shallow pooling for sparse labels. *Under review*.
+   Shallow pooling for sparse labels. *Information Retrieval Journal* **25**(4):365-385, 2022.
      * Paper: https://arxiv.org/abs/2109.00062
      * Data: https://github.com/Narabzad/Shallow-Pooling-for-Sparse-labels
 
